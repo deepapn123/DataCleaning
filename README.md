@@ -1,5 +1,6 @@
 # DataCleaning
 To clean categorical data
+Removes records containing numerical entry or empty value in categorical field.
 ```mermaid
 graph TD
   A[Start] --> B[Read CSV file]
