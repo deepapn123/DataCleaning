@@ -1,5 +1,5 @@
 # DataCleaning
-To clean categorical data - Removes records containing numerical entry or empty value in categorical field.
+To clean categorical data - Removes records containing numerical entry or empty value in categorical field. For NAME field also check for special characters except white space or .
 ```mermaid
 graph TD
   A[Start] --> B[Read CSV file]
